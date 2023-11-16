@@ -25,6 +25,15 @@ java programas.MainProgram
 
 3. Siga as instruções fornecidas no console para registrar funcionários, realizar reajustes salariais e visualizar os resultados.
 
+# Exercício de Programação Orientada a Objetos em Java
+
+![Diagrama de Classe]("C:\Users\claud\OneDrive\Ambiente de Trabalho\EstruturaBusca.png")
+
+Este repositório contém um programa Java desenvolvido como parte de um exercício prático do curso de Programação Orientada a Objetos ministrado pelo instrutor Nelio Alves na plataforma Udemy. O curso aborda conceitos essenciais de POO em Java, com ênfase em listas.
+
+...
+
+
 ## Observações
 
 Este projeto é uma iniciativa educacional e de aprendizado. Dúvidas e sugestões são bem-vindas. Por favor, note que o código pode ser ajustado para melhor atender às necessidades do exercício proposto.
