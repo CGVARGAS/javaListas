@@ -27,8 +27,6 @@ java programas.MainProgram
 
 # Exercício de Programação Orientada a Objetos em Java
 
-![Diagrama de Classe]("C:\Users\claud\OneDrive\Ambiente de Trabalho\EstruturaBusca.png")
-
 Este repositório contém um programa Java desenvolvido como parte de um exercício prático do curso de Programação Orientada a Objetos ministrado pelo instrutor Nelio Alves na plataforma Udemy. O curso aborda conceitos essenciais de POO em Java, com ênfase em listas.
 
 ...
